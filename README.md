@@ -2,7 +2,7 @@
 
 ---A Name suggestion project---
 
-## Resouces
+## Resources
 
 - Fonts
   - <link rel="preconnect" href="https://fonts.gstatic.com">
